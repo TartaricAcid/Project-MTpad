@@ -24,6 +24,32 @@
     关键字2  
     ...  
 ```
+```
+      test.test1.test2
+      test.test1.test3
+      test.test4.test5 
+```
+      
+在文件中的表述形式为
+
+```
+      test
+      ->
+      test1
+      ->
+      test2
+      test3
+
+      <-
+
+      test4
+      ->
+      test5
+
+      <-
+
+      <-
+```
 
 希望能帮忙完善Statements，因为我也不清楚究竟有多少指令QwQ  
 
